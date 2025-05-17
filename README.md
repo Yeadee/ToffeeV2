@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Yeadee/ToffeeV2">
-<img src="[[https://toffeelive.com/logo.svg](https://raw.githubusercontent.com/Yeadee/ToffeeV2/refs/heads/main/images/Toffee.png)](https://raw.githubusercontent.com/Yeadee/ToffeeV2/refs/heads/main/images/Toffee.png)" alt="Logo" width="400px">
+<img src="[https://raw.githubusercontent.com/Yeadee/ToffeeV2/refs/heads/main/images/Toffee_logo.png](https://raw.githubusercontent.com/Yeadee/ToffeeV2/refs/heads/main/images/Toffee_logo.png)" alt="Logo" width="400px">
 </a>
 <br/>
 
